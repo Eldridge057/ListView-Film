@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_film">Nama Film</string>
+
+    <string-array name="data_name">
+        <item>Gundala</item>
+        <item>Harry Potter and the Sorcerer\'s Stone</item>
+        <item>Stand by Me Doraemon 2</item>
+        <item>One Piece: Stampede</item>
+        <item>F9 (Fast n Furious 9)</item>
+        <item>Ultraman Zero</item>
+        <item>Petualangan Hachi si Lebah Madu</item>
+        <item>Habibie dan Ainun</item>
+        <item>Tenggelamnya Kapal van der Wijck</item>
+        <item>Fantastic Four</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gundala adalah sebuah film pahlawan super neo-noir Indonesia tahun 2019 yang disutradarai dan ditulis oleh Joko Anwar. Film ini adalah produksi bersama Screenplay Films, Legacy Pictures, Ideosource Entertainment, dengan pemilik hak cipta Gundala yaitu Bumilangit Studios. Film ini berdasarkan pada cerita karakter pahlawan super Indonesia tahun 1969 Gundala yang dibuat oleh Harya Suraminata. Karakter utamanya sendiri diperankan oleh Abimana Aryasatya. Film ini akan menjadi awal dari Jagat Sinema Bumilangit (JSB).</item>
+        <item>Harry Potter dan Batu Bertuah atau Harry Potter and the Philosopher\'s Stone (di Amerika Serikat, Pakistan, Sri Lanka dan India dikenal dengan judul Harry Potter and the Sorcerer\'s Stone) adalah sebuah film yang sangat sukses pada tahun 2001 yang diangkat dari novel fantasi J. K. Rowling dengan judul yang sama. Seorang agen Warner Brothers membeli hak cipta film ini dengan harga yang relatif murah, sebelum bukunya meledak di pasaran. Film ini dibuat di Studio Film Leavesden dan dirilis pada tahun 2001. Buku kedua, ketiga dan keempat juga telah diadaptasi ke dalam film. Rencananya petualangan Harry Potter akan berakhir di buku ketujuh, demikian juga filmnya. Film ini meraih pendapatan sebesar 950 juta dolar di seluruh dunia (berada di tempat ketiga film terlaris sepanjang masa setelah Titanic dan The Lord Of The Rings: The Return Of The Kings dan menerima 3 nominasi Oscar.</item>
+        <item>Suatu hari Nobita (suara diisi oleh Ohara Megumi) menemukan boneka beruang yang ditambal jahit tangan oleh nenek tercinta (suara diisi oleh Miyamoto Nobuko). Hal tersebut memicu kenangan mengharukan untuknya dan menanyakan kepada Doraemon (suara diisi oleh Mizuta Wasabi) apakah mereka dapat menggunakan mesin waktu untuk mengunjungi Nenek di masa lampau.</item>
+        <item>One Piece: Stampede adalah film petualangan aksi fantasi animasi Jepang 2019 yang disutradarai oleh Takashi Otsuka dan diproduksi oleh Toei Animation. Ini adalah film fitur keempat belas dari seri film One Piece, berdasarkan manga dengan nama yang sama yang ditulis dan diilustrasikan oleh Eiichiro Oda, dan memperingati ulang tahun ke-20 anime tersebut. Oda terlibat dalam film sebagai pengawas kreatif. Film ini ditayangkan perdana dunianya di Osaka Station City Cinema di Osaka pada 1 Agustus 2019, dan kemudian dirilis di Jepang pada 9 Agustus 2019.</item>
+        <item>F9 (alternatively known as Fast n Furious 9) is an upcoming American action film directed by Justin Lin, who also co-wrote the screenplay with Daniel Casey. It is the sequel to The Fate of the Furious (2017), the ninth main installment, and the tenth full-length film released overall in the Fast n Furious franchise. The first film since Fast n Furious 6 (2013) to be directed by Lin and the first since 2 Fast 2 Furious (2003) not to be written by Chris Morgan, the film will star Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Chris "Ludacris" Bridges, John Cena, Jordana Brewster, Nathalie Emmanuel, Sung Kang, Helen Mirren, and Charlize Theron.</item>
+        <item>Ultraman Zero adalah putra Ultraseven. Dia dilatih di bawah Ultraman Leo setelah dia diusir dari Tanah Cahaya oleh ayahnya karena mencoba mengambil Plasma Spark untuk dirinya sendiri. Pelatihannya akhirnya mengarah pada penebusannya dalam pertempurannya dengan Belial.</item>
+        <item>Petualangan Hachi si Lebah Madu adalah serial anime yang diproduksi oleh Tatsunoko Productions. Serial ini menampilkan petualangan seekor lebah muda bernama Hachi: putra seorang lebah ratu, Hachi dipisahkan dari ibunya ketika sarang asalnya dihancurkan oleh serangan tawon. Serial ini mengikuti Hachi ketika ia mencari ibunya yang hilang, di tengah-tengah alam yang sering bermusuhan.</item>
+        <item>Habibie dan Ainun adalah film drama biopik Indonesia yang dirilis pada tanggal 20 Desember 2012. Film ini dibintangi oleh Reza Rahardian dan Bunga Citra Lestari. Pada peluncurannya, film ini disaksikan oleh Presiden Republik Indonesia ke-6, Susilo Bambang Yudhoyono, didampingi oleh Gubernur Daerah Khusus Ibukota Jakarta ke-16, Joko Widodo, dan oleh tokoh utama film ini sendiri, Presiden Republik Indonesia ke-3, Bacharuddin Jusuf Habibie. Film ini diangkat dari memoar berjudul sama, yang ditulis Habibie mengenai kisah hidupnya bersama mendiang istrinya, Hasri Ainun Habibie.</item>
+        <item>Tenggelamnya Kapal Van der Wijck adalah film drama romantis Indonesia tahun 2013 yang disutradarai oleh Sunil Soraya dan diproduseri oleh Ram Soraya. Film ini diadaptasi dari novel berjudul sama karangan Buya Hamka. Tenggelamnya Kapal Van der Wijck mengisahkan tentang perbedaan latar belakang sosial yang menghalangi hubungan cinta sepasang kekasih hingga berakhir dengan kematian. Diproduksi oleh Soraya Intercine Films, film ini antara lain dibintangi oleh Pevita Pearce, Herjunot Ali, Reza Rahadian, dan Randy Danistha.</item>
+        <item>Fantastic Four adalah film superhero Amerika 2015 berdasarkan tim superhero Marvel Comics dengan nama yang sama. Ini adalah film teater Fantastic Four ketiga dan terakhir yang akan diproduksi dan didistribusikan oleh 20th Century Fox dan merupakan reboot dari franchise film Fantastic Four. Disutradarai oleh Josh Trank, yang ikut menulis skenario bersama Jeremy Slater dan Simon Kinberg, film ini dibintangi oleh Miles Teller, Michael B.Jordan, Kate Mara, Jamie Bell, dan Toby Kebbell. Dalam Fantastic Four, tim harus belajar memanfaatkan kemampuan manusia super yang diperoleh dari alam semesta alternatif untuk menyelamatkan Bumi dari teman yang menjadi musuh.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/gundala</item>
+        <item>@drawable/harry_potter_sorcerer_stone</item>
+        <item>@drawable/stand_by_me_doraemon_2</item>
+        <item>@drawable/onepiece_stampede</item>
+        <item>@drawable/f9</item>
+        <item>@drawable/ultraman_zero</item>
+        <item>@drawable/hachi</item>
+        <item>@drawable/habibie_ainun</item>
+        <item>@drawable/van_der_wijck</item>
+        <item>@drawable/fantastic_four</item>
+    </array>
+</resources>
